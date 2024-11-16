@@ -21,7 +21,7 @@
   }
   
   body {
-    background-color: #000;
+   background-color: rgba(10, 10, 40, 1);
     color: #fff;
   }
   
@@ -240,8 +240,8 @@
     padding: 8px;
     background-color: #191919;
     border-radius: 16px;
-    width: 75%;
-    height: 75vh;
+    width: 70%;
+    height: 67vh;
   }
   
   .about .container .content .about-me .profile .image-box img {
